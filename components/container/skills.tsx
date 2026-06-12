@@ -22,7 +22,7 @@ function Skills() {
               <span className="font-bold">AI / GenAI:</span> OpenAI, Langchain
             </li>
             <li className="font-istok-web text-xs md:text-sm">
-              <span className="font-bold">Tools:</span> Git, VS Code, Postman, Vercel, Render
+              <span className="font-bold">Tools:</span> Git, VS Code, Postman, Vercel, Render, Cursor Ai
             </li>
             <li className="font-istok-web text-xs md:text-sm">
               <span className="font-bold">Bonus Stack:</span> Framer, EJS, Mongoose, Docker, Nginx, CI/CD (learning
