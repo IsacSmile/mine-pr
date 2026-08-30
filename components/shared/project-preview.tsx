@@ -45,7 +45,7 @@ function ProjectPreview({ url, staticImage, className }: { url: string; staticIm
             >
               <img
                 src={staticImage ? staticImage : src}
-                className="rounded-none w-full max-h-[600px]"
+                className="rounded-none w-full max-h-150"
                 alt="preview image"
               />
             </a>

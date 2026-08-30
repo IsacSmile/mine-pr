@@ -1,4 +1,4 @@
-export const RESUME_URL = ''
+export const RESUME_URL = "/images/Faiz's_Resume.pdf";
 
 export const LINKEDIN_URL = 'https://linkedin.in/in/faiz-imam';
 

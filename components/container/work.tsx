@@ -47,6 +47,36 @@ function Work() {
         staticImage="/images/thrine.png"
         description="Helping brands scale with high-performance websites, engaging video content, and data-driven digital solutions. 🌐🎥"
       />
+      <WorkCard
+        image="/images/work-2.svg"
+        heading="AKS Home – Co-Living & Property Rentals"
+        projectUrl="https://aks-home.vercel.app/"
+        staticImage="/images/aks-home.png"
+        description="A sleek property management and co-living platform based in the UAE, designed for working professionals seeking seamless room enquiries, tenant trust verification, and hassle-free rental experiences. 🏠✨"
+        className="flex-row-reverse"
+      />
+      <WorkCard
+        image="/images/work-1.svg"
+        heading="Brightshade Consultancy – Enterprise Business Solutions"
+        projectUrl="https://bright-shade.vercel.app/"
+        staticImage="/images/bright-shade.png"
+        description="An interactive business consultancy portal based in Ernakulam, Kerala — featuring direct service CMS, real-time enquiry tracking, and comprehensive legal compliance tools for growing enterprises. 💼📊"
+      />
+      <WorkCard
+        image="/images/work-3.svg"
+        heading="My Homely Cakes – Custom Artisanal Bakery"
+        projectUrl="https://www.myhomelycakes.com/"
+        staticImage="/images/my-homely-caker.png"
+        description="A full end-to-end online bakery platform based in Trivandrum, Kerala — offering custom cake ordering, real-time admin order management, and handcrafted dessert selections. 🎂🍰"
+        className="flex-row-reverse"
+      />
+      <WorkCard
+        image="/images/work-1.svg"
+        heading="Travel Halt – Immersive Travel & Tour Experiences"
+        projectUrl="https://www.travelandhalt.com/"
+        staticImage="/images/travle-halt.png"
+        description="A full end-to-end travel platform based in Sikkim — featuring interactive seat selection, custom trip itineraries, destination guides, theme-based tour packages, and dynamic booking enquiries. ✈️🌴"
+      />
       <FooterMessage message="Take the leap, scroll a bit, and discover where ideas come to life! ^_~ ✨" />
     </SectionWrapper>
   )
@@ -76,7 +106,7 @@ function WorkCard(props: {
           /> */}
           <div
             style={{ borderWidth: '3px' }}
-            className="hidden md:flex justify-center items-center group-hover:hidden transition-all duration-700 w-full md:h-[400px] h-[200px] border bg-[#D7D7D7] border-border/20 border-dashed"
+            className="hidden md:flex justify-center items-center group-hover:hidden transition-all duration-700 w-full md:h-100 h-50 border bg-[#D7D7D7] border-border/20 border-dashed"
           >
             <p className="text-center font-istok-web text-xl font-light text-primary-foreground/30">
               hover to see the preview
@@ -113,7 +143,7 @@ const ProjectPreview = (props: { staticImage?: string; className?: string; proje
     <Link href={props.projectUrl} target="_blank">
       <div
         className={cn(
-          'overflow-hidden cursor-pointer rounded-xl h-full md:h-[400px] border bg-background',
+          'overflow-hidden cursor-pointer rounded-xl h-full md:h-100 border bg-background',
           props.className,
         )}
       >

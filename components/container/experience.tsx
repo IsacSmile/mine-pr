@@ -145,7 +145,7 @@ function Experience() {
                   <div className="space-y-2">
                     {exp.highlights.map((highlight, highlightIndex) => (
                       <div key={highlightIndex} className="flex items-start gap-2 text-sm text-gray-700">
-                        <div className="w-1.5 h-1.5 bg-primary-foreground rounded-full mt-2 flex-shrink-0"></div>
+                        <div className="w-1.5 h-1.5 bg-primary-foreground rounded-full mt-2 shrink-0"></div>
                         <p className="text-xs md:text-sm">{highlight}</p>
                       </div>
                     ))}
