@@ -77,6 +77,14 @@ function Work() {
         staticImage="/images/travle-halt.png"
         description="A full end-to-end travel platform based in Sikkim — featuring interactive seat selection, custom trip itineraries, destination guides, theme-based tour packages, and dynamic booking enquiries. ✈️🌴"
       />
+      <WorkCard
+        image="/images/work-2.svg"
+        heading="Unfiltered Faiz – Personal Blog"
+        projectUrl="https://unfiltered-faiz.up.railway.app/home"
+        staticImage="/images/unfiltered-faiz.png"
+        description="A personal publication platform & blog — notes from a restless mind covering code, quiet rebellions, and voices from Palestine, Sudan, Bosnia, Manipur & Kashmir. ✍️🕊️"
+        className="flex-row-reverse"
+      />
       <FooterMessage message="Take the leap, scroll a bit, and discover where ideas come to life! ^_~ ✨" />
     </SectionWrapper>
   )
