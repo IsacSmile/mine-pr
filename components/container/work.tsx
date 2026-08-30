@@ -27,62 +27,62 @@ function Work() {
       />
       <WorkCard
         image="/images/work-1.svg"
-        heading="Fit With Khansa – Wellness Coach"
-        projectUrl="https://fitwithkhansa.com/"
-        staticImage="/images/fitwithkhansa.png"
-        description="Helping busy individuals lose weight, build healthy habits, and regain confidence through personalized nutrition coaching and ongoing support. 🌿💚"
-      />
-      <WorkCard
-        image="/images/work-2.svg"
-        heading="Sky Drops Technology"
-        projectUrl="https://skydropstechnologies.com/"
-        description="A modern SaaS platform that helps businesses manage subscriptions, automate billing, track renewals, and streamline customer lifecycle management—all from a single dashboard. 💳📈"
-        staticImage="/images/skydroptech.png"
-        className="flex-row-reverse"
-      />
-      <WorkCard
-        image="/images/work-3.svg"
-        heading="Thrinemedia – A Web + Video Agency"
-        projectUrl="https://thrinemedia.com/"
-        staticImage="/images/thrine.png"
-        description="Helping brands scale with high-performance websites, engaging video content, and data-driven digital solutions. 🌐🎥"
-      />
-      <WorkCard
-        image="/images/work-2.svg"
-        heading="AKS Home – Co-Living & Property Rentals"
-        projectUrl="https://aks-home.vercel.app/"
-        staticImage="/images/aks-home.png"
-        description="A sleek property management and co-living platform based in the UAE, designed for working professionals seeking seamless room enquiries, tenant trust verification, and hassle-free rental experiences. 🏠✨"
-        className="flex-row-reverse"
-      />
-      <WorkCard
-        image="/images/work-1.svg"
-        heading="Brightshade Consultancy – Enterprise Business Solutions"
-        projectUrl="https://bright-shade.vercel.app/"
-        staticImage="/images/bright-shade.png"
-        description="An interactive business consultancy portal based in Ernakulam, Kerala — featuring direct service CMS, real-time enquiry tracking, and comprehensive legal compliance tools for growing enterprises. 💼📊"
-      />
-      <WorkCard
-        image="/images/work-3.svg"
-        heading="My Homely Cakes – Custom Artisanal Bakery"
-        projectUrl="https://www.myhomelycakes.com/"
-        staticImage="/images/my-homely-caker.png"
-        description="A full end-to-end online bakery platform based in Trivandrum, Kerala — offering custom cake ordering, real-time admin order management, and handcrafted dessert selections. 🎂🍰"
-        className="flex-row-reverse"
-      />
-      <WorkCard
-        image="/images/work-1.svg"
-        heading="Travel Halt – Immersive Travel & Tour Experiences"
-        projectUrl="https://www.travelandhalt.com/"
-        staticImage="/images/travle-halt.png"
-        description="A full end-to-end travel platform based in Sikkim — featuring interactive seat selection, custom trip itineraries, destination guides, theme-based tour packages, and dynamic booking enquiries. ✈️🌴"
-      />
-      <WorkCard
-        image="/images/work-2.svg"
         heading="Unfiltered Faiz – Personal Blog"
         projectUrl="https://unfiltered-faiz.up.railway.app/home"
         staticImage="/images/unfiltered-faiz.png"
         description="A personal publication platform & blog — notes from a restless mind covering code, quiet rebellions, and voices from Palestine, Sudan, Bosnia, Manipur & Kashmir. ✍️🕊️"
+      />
+      <WorkCard
+        image="/images/work-2.svg"
+        heading="Fit With Khansa – Wellness Coach"
+        projectUrl="https://fitwithkhansa.com/"
+        staticImage="/images/fitwithkhansa.png"
+        description="Helping busy individuals lose weight, build healthy habits, and regain confidence through personalized nutrition coaching and ongoing support. 🌿💚"
+        className="flex-row-reverse"
+      />
+      <WorkCard
+        image="/images/work-3.svg"
+        heading="Sky Drops Technology"
+        projectUrl="https://skydropstechnologies.com/"
+        description="A modern SaaS platform that helps businesses manage subscriptions, automate billing, track renewals, and streamline customer lifecycle management—all from a single dashboard. 💳📈"
+        staticImage="/images/skydroptech.png"
+      />
+      <WorkCard
+        image="/images/work-2.svg"
+        heading="Thrinemedia – A Web + Video Agency"
+        projectUrl="https://thrinemedia.com/"
+        staticImage="/images/thrine.png"
+        description="Helping brands scale with high-performance websites, engaging video content, and data-driven digital solutions. 🌐🎥"
+        className="flex-row-reverse"
+      />
+      <WorkCard
+        image="/images/work-1.svg"
+        heading="AKS Home – Co-Living & Property Rentals"
+        projectUrl="https://aks-home.vercel.app/"
+        staticImage="/images/aks-home.png"
+        description="A sleek property management and co-living platform based in the UAE, designed for working professionals seeking seamless room enquiries, tenant trust verification, and hassle-free rental experiences. 🏠✨"
+      />
+      <WorkCard
+        image="/images/work-3.svg"
+        heading="Brightshade Consultancy – Enterprise Business Solutions"
+        projectUrl="https://bright-shade.vercel.app/"
+        staticImage="/images/bright-shade.png"
+        description="An interactive business consultancy portal based in Ernakulam, Kerala — featuring direct service CMS, real-time enquiry tracking, and comprehensive legal compliance tools for growing enterprises. 💼📊"
+        className="flex-row-reverse"
+      />
+      <WorkCard
+        image="/images/work-1.svg"
+        heading="My Homely Cakes – Custom Artisanal Bakery"
+        projectUrl="https://www.myhomelycakes.com/"
+        staticImage="/images/my-homely-caker.png"
+        description="A full end-to-end online bakery platform based in Trivandrum, Kerala — offering custom cake ordering, real-time admin order management, and handcrafted dessert selections. 🎂🍰"
+      />
+      <WorkCard
+        image="/images/work-2.svg"
+        heading="Travel Halt – Immersive Travel & Tour Experiences"
+        projectUrl="https://www.travelandhalt.com/"
+        staticImage="/images/travle-halt.png"
+        description="A full end-to-end travel platform based in Sikkim — featuring interactive seat selection, custom trip itineraries, destination guides, theme-based tour packages, and dynamic booking enquiries. ✈️🌴"
         className="flex-row-reverse"
       />
       <FooterMessage message="Take the leap, scroll a bit, and discover where ideas come to life! ^_~ ✨" />
