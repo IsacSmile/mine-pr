@@ -42,10 +42,10 @@ function Work() {
       />
       <WorkCard
         image="/images/work-3.svg"
-        heading="Sky Drops Technology"
-        projectUrl="https://skydropstechnologies.com/"
-        description="A modern SaaS platform that helps businesses manage subscriptions, automate billing, track renewals, and streamline customer lifecycle management—all from a single dashboard. 💳📈"
-        staticImage="/images/skydroptech.png"
+        heading="Kochi Classifieds – Local Business Directory"
+        projectUrl="https://kochi-classifieds-mains.vercel.app/"
+        staticImage="/images/kochi-classifieds.png"
+        description="A local business directory platform based in Kochi, Kerala — helping users discover trusted local businesses, services, and professionals across Fort Kochi, Kakkanad, Edappally, and more. 📍🌴"
       />
       <WorkCard
         image="/images/work-2.svg"
